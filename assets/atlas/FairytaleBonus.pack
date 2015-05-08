@@ -1,0 +1,82 @@
+
+FairytaleBonus.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+game_over_label
+  rotate: false
+  xy: 1, 161
+  size: 514, 314
+  orig: 514, 314
+  offset: 0, 0
+  index: -1
+award_frame
+  rotate: false
+  xy: 517, 402
+  size: 549, 73
+  orig: 549, 73
+  offset: 0, 0
+  index: -1
+barrel
+  rotate: false
+  xy: 517, 164
+  size: 214, 236
+  orig: 214, 236
+  offset: 0, 0
+  index: -1
+barrel_apple
+  rotate: false
+  xy: 733, 164
+  size: 214, 236
+  orig: 214, 236
+  offset: 0, 0
+  index: -1
+barrel_arrow
+  rotate: false
+  xy: 949, 164
+  size: 214, 236
+  orig: 214, 236
+  offset: 0, 0
+  index: -1
+barrel_beads
+  rotate: false
+  xy: 1165, 239
+  size: 214, 236
+  orig: 214, 236
+  offset: 0, 0
+  index: -1
+barrel_feather
+  rotate: false
+  xy: 1381, 239
+  size: 214, 236
+  orig: 214, 236
+  offset: 0, 0
+  index: -1
+barrel_hat
+  rotate: false
+  xy: 1597, 239
+  size: 214, 236
+  orig: 214, 236
+  offset: 0, 0
+  index: -1
+barrel_key
+  rotate: false
+  xy: 1813, 239
+  size: 214, 236
+  orig: 214, 236
+  offset: 0, 0
+  index: -1
+barrel_mirror
+  rotate: false
+  xy: 1165, 1
+  size: 214, 236
+  orig: 214, 236
+  offset: 0, 0
+  index: -1
+barrel_over
+  rotate: false
+  xy: 1381, 1
+  size: 214, 236
+  orig: 214, 236
+  offset: 0, 0
+  index: -1
