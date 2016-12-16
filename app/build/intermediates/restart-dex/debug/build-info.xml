@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="armeabi-v7a,armeabi"
+    api-level="19"
+    density="tvdpi"
+    format="8"
+    plugin-version="2.2.3"
+    timestamp="5802584599847"
+    token="558862480223157736"
+    verifier="STATIC_INITIALIZER_CHANGE" >
+
+    <task
+        name="javac"
+        duration="1206" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="39" />
+    <task
+        name="verifier"
+        duration="8" />
+
+    <artifact
+        location="/home/candellws/Documents/GitHub/SlotsGdxAndroidOffline-master1/app/build/outputs/apk/app-debug.apk"
+        type="MAIN" />
+
+    <build
+        timestamp="17421413175847"
+        verifier="FULL_BUILD_REQUESTED" >
+        <artifact
+            location="/home/candellws/Documents/GitHub/SlotsGdxAndroidOffline-master1/app/build/outputs/apk/app-debug.apk"
+            type="MAIN" />
+    </build>
+
+</instant-run>

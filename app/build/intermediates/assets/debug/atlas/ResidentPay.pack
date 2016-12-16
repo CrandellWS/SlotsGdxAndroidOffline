@@ -1,0 +1,40 @@
+
+ResidentPay.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+table_shadow
+  rotate: false
+  xy: 1, 213
+  size: 1280, 26
+  orig: 1280, 26
+  offset: 0, 0
+  index: -1
+title_background
+  rotate: false
+  xy: 1, 86
+  size: 951, 125
+  orig: 951, 125
+  offset: 0, 0
+  index: -1
+symbol_background
+  rotate: false
+  xy: 954, 1
+  size: 210, 210
+  orig: 210, 210
+  offset: 0, 0
+  index: -1
+symbol_any
+  rotate: false
+  xy: 1166, 61
+  size: 151, 150
+  orig: 151, 150
+  offset: 0, 0
+  index: -1
+table_arrow
+  rotate: false
+  xy: 1319, 132
+  size: 36, 107
+  orig: 36, 107
+  offset: 0, 0
+  index: -1

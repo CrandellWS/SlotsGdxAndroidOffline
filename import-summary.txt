@@ -1,0 +1,354 @@
+ECLIPSE ANDROID PROJECT IMPORT SUMMARY
+======================================
+
+Ignored Files:
+--------------
+The following files were *not* copied into the new Gradle project; you
+should evaluate whether these are still needed in your project and if
+so manually move them:
+
+* android/
+* android/mobi/
+* android/mobi/square/
+* android/mobi/square/slots/
+* android/mobi/square/slots/app/
+* android/mobi/square/slots/app/Main.java
+* assets-offline/
+* assets-offline/assets/
+* assets-offline/assets/atlas/
+* assets-offline/assets/atlas/LoadingScreen.pack
+* assets-offline/assets/atlas/LoadingScreen.png
+* assets-offline/assets/conf/
+* assets-offline/assets/conf/fairytale.sum
+* assets-offline/assets/conf/underwater_life.sum
+* assets-offline/assets/pxinapp_49873.bin
+* common/
+* common/mobi/
+* common/mobi/square/
+* common/mobi/square/slots/
+* common/mobi/square/slots/api/
+* common/mobi/square/slots/api/AppWrapper.java
+* common/mobi/square/slots/api/Connection.java
+* common/mobi/square/slots/api/SlotsApi.java
+* common/mobi/square/slots/app/
+* common/mobi/square/slots/app/Game.java
+* common/mobi/square/slots/b/
+* common/mobi/square/slots/b/bookofra/
+* common/mobi/square/slots/b/bookofra/BookOfRa.java
+* common/mobi/square/slots/b/bookofra/MBookOfRa.java
+* common/mobi/square/slots/b/bookofra/SBookOfRa.java
+* common/mobi/square/slots/b/bookofra/TBookOfRa.java
+* common/mobi/square/slots/b/crazymonkey/
+* common/mobi/square/slots/b/crazymonkey/CrazyBoxesGroup.java
+* common/mobi/square/slots/b/crazymonkey/CrazyMonkey.java
+* common/mobi/square/slots/b/crazymonkey/CrazyMonkeyBoxes.java
+* common/mobi/square/slots/b/crazymonkey/CrazyMonkeyRopes.java
+* common/mobi/square/slots/b/crazymonkey/CrazyRopesGroup.java
+* common/mobi/square/slots/b/crazymonkey/MCrazyMonkey.java
+* common/mobi/square/slots/b/crazymonkey/RiskMonkey.java
+* common/mobi/square/slots/b/crazymonkey/RiskMonkeyGroup.java
+* common/mobi/square/slots/b/crazymonkey/SCrazyMonkey.java
+* common/mobi/square/slots/b/crazymonkey/SCrazyMonkeyBoxes.java
+* common/mobi/square/slots/b/crazymonkey/SCrazyMonkeyRopes.java
+* common/mobi/square/slots/b/crazymonkey/SRiskMonkey.java
+* common/mobi/square/slots/b/crazymonkey/TCrazyMonkey.java
+* common/mobi/square/slots/b/rockclimber/
+* common/mobi/square/slots/b/rockclimber/MRockClimber.java
+* common/mobi/square/slots/b/rockclimber/RiskClimber.java
+* common/mobi/square/slots/b/rockclimber/RiskClimberGroup.java
+* common/mobi/square/slots/b/rockclimber/RockClimber.java
+* common/mobi/square/slots/b/rockclimber/RockClimberBonus.java
+* common/mobi/square/slots/b/rockclimber/RockClimberGroup.java
+* common/mobi/square/slots/b/rockclimber/SRiskClimber.java
+* common/mobi/square/slots/b/rockclimber/SRockClimber.java
+* common/mobi/square/slots/b/rockclimber/SRockClimberBonus.java
+* common/mobi/square/slots/b/rockclimber/TRockClimber.java
+* common/mobi/square/slots/classes/
+* common/mobi/square/slots/classes/Card.java
+* common/mobi/square/slots/classes/Effects.java
+* common/mobi/square/slots/classes/Line.java
+* common/mobi/square/slots/classes/Lines.java
+* common/mobi/square/slots/classes/LinesImg.java
+* common/mobi/square/slots/classes/Machine.java
+* common/mobi/square/slots/classes/Reel.java
+* common/mobi/square/slots/classes/Symbol.java
+* common/mobi/square/slots/config/
+* common/mobi/square/slots/config/ApiConfig.java
+* common/mobi/square/slots/config/AppConfig.java
+* common/mobi/square/slots/config/LinesConfig.java
+* common/mobi/square/slots/config/SlotsConfig.java
+* common/mobi/square/slots/config/SoundList.java
+* common/mobi/square/slots/containers/
+* common/mobi/square/slots/containers/BankInfo.java
+* common/mobi/square/slots/containers/CardInfo.java
+* common/mobi/square/slots/containers/LinesExt.java
+* common/mobi/square/slots/containers/SlotsInfo.java
+* common/mobi/square/slots/containers/UserInfo.java
+* common/mobi/square/slots/dl/
+* common/mobi/square/slots/dl/DownloadManager.java
+* common/mobi/square/slots/dl/InstallManager.java
+* common/mobi/square/slots/dl/PackageManager.java
+* common/mobi/square/slots/dl/Packer.java
+* common/mobi/square/slots/dl/PackerCLI.java
+* common/mobi/square/slots/effects/
+* common/mobi/square/slots/effects/CEffect.java
+* common/mobi/square/slots/effects/Freeze.java
+* common/mobi/square/slots/effects/IEffect.java
+* common/mobi/square/slots/effects/MoveX.java
+* common/mobi/square/slots/effects/MoveY.java
+* common/mobi/square/slots/enums/
+* common/mobi/square/slots/enums/BonusGame.java
+* common/mobi/square/slots/enums/BoxState.java
+* common/mobi/square/slots/enums/CardColor.java
+* common/mobi/square/slots/enums/CardRank.java
+* common/mobi/square/slots/enums/CardSuit.java
+* common/mobi/square/slots/enums/Lines.java
+* common/mobi/square/slots/enums/RiskType.java
+* common/mobi/square/slots/enums/SlotsType.java
+* common/mobi/square/slots/enums/SymbolType.java
+* common/mobi/square/slots/error/
+* common/mobi/square/slots/error/StringCodeException.java
+* common/mobi/square/slots/handlers/
+* common/mobi/square/slots/handlers/AsyncJsonHandler.java
+* common/mobi/square/slots/handlers/CancelableHandler.java
+* common/mobi/square/slots/handlers/LoadingHandler.java
+* common/mobi/square/slots/listeners/
+* common/mobi/square/slots/listeners/LineShowedListener.java
+* common/mobi/square/slots/listeners/LinesShowedListener.java
+* common/mobi/square/slots/listeners/MachineStoppedListener.java
+* common/mobi/square/slots/listeners/ReelStoppedListener.java
+* common/mobi/square/slots/logger/
+* common/mobi/square/slots/logger/Log.java
+* common/mobi/square/slots/screens/
+* common/mobi/square/slots/screens/SBasic.java
+* common/mobi/square/slots/screens/SCup.java
+* common/mobi/square/slots/screens/SLoading.java
+* common/mobi/square/slots/screens/SLobby.java
+* common/mobi/square/slots/screens/SLogin.java
+* common/mobi/square/slots/screens/SRiskColor.java
+* common/mobi/square/slots/screens/SRiskGreater.java
+* common/mobi/square/slots/screens/SSinglePlayer.java
+* common/mobi/square/slots/screens/bonus/
+* common/mobi/square/slots/screens/bonus/SFairytaleBonus.java
+* common/mobi/square/slots/screens/bonus/SGarageBoxes.java
+* common/mobi/square/slots/screens/bonus/SGarageLocks.java
+* common/mobi/square/slots/screens/bonus/SGladiatorsBonus.java
+* common/mobi/square/slots/screens/bonus/SResidentDoors.java
+* common/mobi/square/slots/screens/bonus/SResidentLocks.java
+* common/mobi/square/slots/screens/bonus/SUnderwaterLifeBonus.java
+* common/mobi/square/slots/stages/
+* common/mobi/square/slots/stages/Basic.java
+* common/mobi/square/slots/stages/Cup.java
+* common/mobi/square/slots/stages/Header.java
+* common/mobi/square/slots/stages/Loading.java
+* common/mobi/square/slots/stages/Lobby.java
+* common/mobi/square/slots/stages/Login.java
+* common/mobi/square/slots/stages/RiskColor.java
+* common/mobi/square/slots/stages/RiskGreater.java
+* common/mobi/square/slots/stages/SinglePlayer.java
+* common/mobi/square/slots/stages/bonus/
+* common/mobi/square/slots/stages/bonus/FairytaleBonus.java
+* common/mobi/square/slots/stages/bonus/GarageBoxes.java
+* common/mobi/square/slots/stages/bonus/GarageLocks.java
+* common/mobi/square/slots/stages/bonus/GladiatorsBonus.java
+* common/mobi/square/slots/stages/bonus/ResidentDoors.java
+* common/mobi/square/slots/stages/bonus/ResidentLocks.java
+* common/mobi/square/slots/stages/bonus/UnderwaterLifeBonus.java
+* common/mobi/square/slots/tools/
+* common/mobi/square/slots/tools/AtlasLoader.java
+* common/mobi/square/slots/tools/FontsFactory.java
+* common/mobi/square/slots/ui/
+* common/mobi/square/slots/ui/BackgroundLabel.java
+* common/mobi/square/slots/ui/BankWindow.java
+* common/mobi/square/slots/ui/BonusWindow.java
+* common/mobi/square/slots/ui/CupBigWindow.java
+* common/mobi/square/slots/ui/CupFooter.java
+* common/mobi/square/slots/ui/CupResultWindow.java
+* common/mobi/square/slots/ui/CupRules.java
+* common/mobi/square/slots/ui/CupTop.java
+* common/mobi/square/slots/ui/CupWindow.java
+* common/mobi/square/slots/ui/DailyBonusPanel.java
+* common/mobi/square/slots/ui/DownloadDialog.java
+* common/mobi/square/slots/ui/DrawableActor.java
+* common/mobi/square/slots/ui/GameFooter.java
+* common/mobi/square/slots/ui/GameHeader.java
+* common/mobi/square/slots/ui/GreyscaleActor.java
+* common/mobi/square/slots/ui/HitZoneButton.java
+* common/mobi/square/slots/ui/IntClickListener.java
+* common/mobi/square/slots/ui/LoadingIcon.java
+* common/mobi/square/slots/ui/LoadingLights.java
+* common/mobi/square/slots/ui/LobbyScroll.java
+* common/mobi/square/slots/ui/MailWindow.java
+* common/mobi/square/slots/ui/MessageWindow.java
+* common/mobi/square/slots/ui/MoneyLabel.java
+* common/mobi/square/slots/ui/PixelLabel.java
+* common/mobi/square/slots/ui/Resizable.java
+* common/mobi/square/slots/ui/RiskButton.java
+* common/mobi/square/slots/ui/RiskColorGroup.java
+* common/mobi/square/slots/ui/RiskGreaterGroup.java
+* common/mobi/square/slots/ui/RouletteWindow.java
+* common/mobi/square/slots/ui/SettingsWindow.java
+* common/mobi/square/slots/ui/SpinButton.java
+* common/mobi/square/slots/ui/TopWindow.java
+* common/mobi/square/slots/ui/bonus/
+* common/mobi/square/slots/ui/bonus/BasicGameOverWindow.java
+* common/mobi/square/slots/ui/bonus/BookOfRaBonusWindow.java
+* common/mobi/square/slots/ui/bonus/CrazyMonkeyBoxesGroup.java
+* common/mobi/square/slots/ui/bonus/CrazyMonkeyRopesGroup.java
+* common/mobi/square/slots/ui/bonus/FairytaleBonusGroup.java
+* common/mobi/square/slots/ui/bonus/GarageBoxesGroup.java
+* common/mobi/square/slots/ui/bonus/GarageLocksGroup.java
+* common/mobi/square/slots/ui/bonus/GladiatorsBonusGroup.java
+* common/mobi/square/slots/ui/bonus/ResidentDoorsGroup.java
+* common/mobi/square/slots/ui/bonus/ResidentLocksGroup.java
+* common/mobi/square/slots/ui/bonus/UnderwaterLifeBonusGroup.java
+* common/mobi/square/slots/ui/payout/
+* common/mobi/square/slots/ui/payout/TBasic.java
+* common/mobi/square/slots/ui/payout/TFairytale.java
+* common/mobi/square/slots/ui/payout/TGarage.java
+* common/mobi/square/slots/ui/payout/TGladiators.java
+* common/mobi/square/slots/ui/payout/TMoneyGame.java
+* common/mobi/square/slots/ui/payout/TResident.java
+* common/mobi/square/slots/ui/payout/TUnderwaterLife.java
+* common/mobi/square/slots/utils/
+* common/mobi/square/slots/utils/IntMap.java
+* common/mobi/square/slots/utils/MersenneTwisterFast.java
+* common/mobi/square/slots/utils/json/
+* common/mobi/square/slots/utils/json/JsonArray.java
+* common/mobi/square/slots/utils/json/JsonMaker.java
+* common/mobi/square/slots/utils/json/JsonNode.java
+* common/mobi/square/slots/utils/json/JsonObject.java
+* common/mobi/square/slots/utils/utils.java
+* ic_launcher-web.png
+* offline/
+* offline/mobi/
+* offline/mobi/square/
+* offline/mobi/square/slots/
+* offline/mobi/square/slots/api/
+* offline/mobi/square/slots/api/AndroidApi.java
+* offline/mobi/square/slots/api/Gateway.java
+* offline/mobi/square/slots/containers/
+* offline/mobi/square/slots/containers/Combination.java
+* offline/mobi/square/slots/dl/
+* offline/mobi/square/slots/dl/FilesList.java
+* offline/mobi/square/slots/enums/
+* offline/mobi/square/slots/enums/Method.java
+* offline/mobi/square/slots/enums/Symbol.java
+* offline/mobi/square/slots/game/
+* offline/mobi/square/slots/game/bank/
+* offline/mobi/square/slots/game/bank/Bank.java
+* offline/mobi/square/slots/game/bank/CPurchase.java
+* offline/mobi/square/slots/game/controller/
+* offline/mobi/square/slots/game/controller/CJsonController.java
+* offline/mobi/square/slots/game/slots/
+* offline/mobi/square/slots/game/slots/CCard.java
+* offline/mobi/square/slots/game/slots/CSlots.java
+* offline/mobi/square/slots/game/slots/CSymbol.java
+* offline/mobi/square/slots/game/slots/CWinLine.java
+* offline/mobi/square/slots/game/slots/Slots.java
+* offline/mobi/square/slots/game/slots/bonusgames/
+* offline/mobi/square/slots/game/slots/bonusgames/BoxState.java
+* offline/mobi/square/slots/game/slots/bonusgames/CBonusGame.java
+* offline/mobi/square/slots/game/slots/bonusgames/CBookOfRaSlot.java
+* offline/mobi/square/slots/game/slots/bonusgames/CBox.java
+* offline/mobi/square/slots/game/slots/bonusgames/CChests.java
+* offline/mobi/square/slots/game/slots/bonusgames/CFairytaleKegs.java
+* offline/mobi/square/slots/game/slots/bonusgames/CGarageBoxes.java
+* offline/mobi/square/slots/game/slots/bonusgames/CGarageLocks.java
+* offline/mobi/square/slots/game/slots/bonusgames/CMonkeyRopes.java
+* offline/mobi/square/slots/game/slots/bonusgames/CResidentSafes.java
+* offline/mobi/square/slots/game/slots/bonusgames/CRockClimberCaves.java
+* offline/mobi/square/slots/game/slots/bonusgames/CUnderwaterLifeSeashells.java
+* offline/mobi/square/slots/game/slots/bonusgames/IBonusGame.java
+* offline/mobi/square/slots/game/slots/config/
+* offline/mobi/square/slots/game/slots/config/CEffects.java
+* offline/mobi/square/slots/game/slots/config/ISlotsConfig.java
+* offline/mobi/square/slots/game/slots/lines/
+* offline/mobi/square/slots/game/slots/lines/CLines.java
+* offline/mobi/square/slots/game/slots/lines/CLines_3x_09_v1.java
+* offline/mobi/square/slots/game/slots/lines/CLines_3x_20_v1.java
+* offline/mobi/square/slots/game/slots/lines/CLines_3x_99_v1.java
+* offline/mobi/square/slots/game/slots/lines/CLines_4x_50_v1.java
+* offline/mobi/square/slots/game/slots/lines/ILines.java
+* offline/mobi/square/slots/game/slots/risk/
+* offline/mobi/square/slots/game/slots/risk/CRiskColor.java
+* offline/mobi/square/slots/game/slots/risk/CRiskGreater.java
+* offline/mobi/square/slots/game/slots/v3/
+* offline/mobi/square/slots/game/slots/v3/CSlotsBase.java
+* offline/mobi/square/slots/game/slots/v3/config/
+* offline/mobi/square/slots/game/slots/v3/config/Fairytale.java
+* offline/mobi/square/slots/game/slots/v3/config/UnderwaterLife.java
+* offline/mobi/square/slots/game/slots/v4/
+* offline/mobi/square/slots/game/slots/v4/CSlotsBase.java
+* offline/mobi/square/slots/game/slots/v4/config/
+* offline/mobi/square/slots/game/slots/v4/config/BookOfRa.java
+* offline/mobi/square/slots/game/slots/v4/config/CrazyMonkey.java
+* offline/mobi/square/slots/game/slots/v4/config/Garage.java
+* offline/mobi/square/slots/game/slots/v4/config/Gladiators.java
+* offline/mobi/square/slots/game/slots/v4/config/MoneyGame.java
+* offline/mobi/square/slots/game/slots/v4/config/Resident.java
+* offline/mobi/square/slots/game/slots/v4/config/RockClimber.java
+* offline/mobi/square/slots/game/user/
+* offline/mobi/square/slots/game/user/CUser.java
+* offline/mobi/square/slots/game/user/CUserController.java
+* proguard-project.txt
+
+Replaced Jars with Dependencies:
+--------------------------------
+The importer recognized the following .jar files as third party
+libraries and replaced them with Gradle dependencies instead. This has
+the advantage that more explicit version information is known, and the
+libraries can be updated automatically. However, it is possible that
+the .jar file in your project was of an older version than the
+dependency we picked, which could render the project not compileable.
+You can disable the jar replacement in the import wizard and try again:
+
+android-support-v4.jar => com.android.support:support-v4:19.1.0
+
+Moved Files:
+------------
+Android Gradle projects use a different directory structure than ADT
+Eclipse projects. Here's how the projects were restructured:
+
+* AndroidManifest.xml => app/src/main/AndroidManifest.xml
+* assets/ => app/src/main/assets/
+* libs/android-async-http-1.4.2.jar => app/libs/android-async-http-1.4.2.jar
+* libs/armeabi-v7a/libgdx-freetype.so => app/src/main/jniLibs/armeabi-v7a/libgdx-freetype.so
+* libs/armeabi-v7a/libgdx.so => app/src/main/jniLibs/armeabi-v7a/libgdx.so
+* libs/armeabi-v7a/libpxinapp.so => app/src/main/jniLibs/armeabi-v7a/libpxinapp.so
+* libs/armeabi/libgdx-freetype.so => app/src/main/jniLibs/armeabi/libgdx-freetype.so
+* libs/armeabi/libgdx.so => app/src/main/jniLibs/armeabi/libgdx.so
+* libs/armeabi/libpxinapp.so => app/src/main/jniLibs/armeabi/libpxinapp.so
+* libs/bolts.jar => app/libs/bolts.jar
+* libs/gdx-backend-android-sources.jar => app/libs/gdx-backend-android-sources.jar
+* libs/gdx-backend-android.jar => app/libs/gdx-backend-android.jar
+* libs/gdx-backend-lwjgl-sources.jar => app/libs/gdx-backend-lwjgl-sources.jar
+* libs/gdx-backend-lwjgl.jar => app/libs/gdx-backend-lwjgl.jar
+* libs/gdx-freetype-sources.jar => app/libs/gdx-freetype-sources.jar
+* libs/gdx-freetype.jar => app/libs/gdx-freetype.jar
+* libs/gdx.jar => app/libs/gdx.jar
+* libs/google-play-services.jar => app/libs/google-play-services.jar
+* libs/json-20140107.jar => app/libs/json-20140107.jar
+* libs/mips/libpxinapp.so => app/src/main/jniLibs/mips/libpxinapp.so
+* libs/odnoklassniki-android-sdk.jar => app/libs/odnoklassniki-android-sdk.jar
+* libs/pxinapp.jar => app/libs/pxinapp.jar
+* libs/slf4j-api-1.7.7.jar => app/libs/slf4j-api-1.7.7.jar
+* libs/x86/libpxinapp.so => app/src/main/jniLibs/x86/libpxinapp.so
+* lint.xml => app/lint.xml
+* res/ => app/src/main/res/
+* src/ => app/src/main/java/
+
+Next Steps:
+-----------
+You can now build the project. The Gradle project needs network
+connectivity to download dependencies.
+
+Bugs:
+-----
+If for some reason your project does not build, and you determine that
+it is due to a bug or limitation of the Eclipse to Gradle importer,
+please file a bug at http://b.android.com with category
+Component-Tools.
+
+(This import summary is for your information only, and can be deleted
+after import once you are satisfied with the results.)

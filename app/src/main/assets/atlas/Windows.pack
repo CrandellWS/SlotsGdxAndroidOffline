@@ -1,0 +1,284 @@
+
+Windows.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+top_background
+  rotate: false
+  xy: 1, 1003
+  size: 1920, 20
+  split: 0, 0, 8, 11
+  orig: 1920, 20
+  offset: 0, 0
+  index: -1
+bank_background
+  rotate: false
+  xy: 1, 373
+  size: 1036, 628
+  orig: 1036, 628
+  offset: 0, 0
+  index: -1
+message_background
+  rotate: false
+  xy: 1039, 589
+  size: 877, 412
+  orig: 877, 412
+  offset: 0, 0
+  index: -1
+item_background
+  rotate: false
+  xy: 1, 268
+  size: 1005, 103
+  orig: 1005, 103
+  offset: 0, 0
+  index: -1
+top_shadow
+  rotate: false
+  xy: 1, 240
+  size: 1280, 26
+  orig: 1280, 26
+  offset: 0, 0
+  index: -1
+bank_shadow
+  rotate: false
+  xy: 1, 213
+  size: 1004, 25
+  orig: 1004, 25
+  offset: 0, 0
+  index: -1
+top_line_horisontal
+  rotate: false
+  xy: 1039, 583
+  size: 782, 4
+  orig: 782, 4
+  offset: 0, 0
+  index: -1
+item_price_blue
+  rotate: false
+  xy: 1, 114
+  size: 439, 97
+  orig: 439, 97
+  offset: 0, 0
+  index: -1
+item_price_green
+  rotate: false
+  xy: 1039, 484
+  size: 439, 97
+  orig: 439, 97
+  offset: 0, 0
+  index: -1
+item_price_orange
+  rotate: false
+  xy: 1, 15
+  size: 439, 97
+  orig: 439, 97
+  offset: 0, 0
+  index: -1
+item_price_yellow
+  rotate: false
+  xy: 442, 114
+  size: 439, 97
+  orig: 439, 97
+  offset: 0, 0
+  index: -1
+invite_button_active
+  rotate: false
+  xy: 1039, 417
+  size: 401, 65
+  orig: 401, 65
+  offset: 0, 0
+  index: -1
+invite_button_inactive
+  rotate: false
+  xy: 442, 47
+  size: 401, 65
+  orig: 401, 65
+  offset: 0, 0
+  index: -1
+invite_button_pressed
+  rotate: false
+  xy: 1039, 350
+  size: 401, 65
+  orig: 401, 65
+  offset: 0, 0
+  index: -1
+top_highlight
+  rotate: false
+  xy: 1480, 458
+  size: 332, 123
+  orig: 332, 123
+  offset: 0, 0
+  index: -1
+top_button_up_active
+  rotate: false
+  xy: 1442, 350
+  size: 294, 106
+  orig: 294, 106
+  offset: 0, 0
+  index: -1
+top_button_up_inactive
+  rotate: false
+  xy: 1283, 242
+  size: 294, 106
+  orig: 294, 106
+  offset: 0, 0
+  index: -1
+top_button_down_active
+  rotate: false
+  xy: 1007, 138
+  size: 294, 100
+  orig: 294, 100
+  offset: 0, 0
+  index: -1
+top_button_up_pressed
+  rotate: false
+  xy: 1303, 134
+  size: 294, 106
+  orig: 294, 106
+  offset: 0, 0
+  index: -1
+top_button_down_inactive
+  rotate: false
+  xy: 1579, 248
+  size: 294, 100
+  orig: 294, 100
+  offset: 0, 0
+  index: -1
+top_button_down_pressed
+  rotate: false
+  xy: 1599, 146
+  size: 294, 100
+  orig: 294, 100
+  offset: 0, 0
+  index: -1
+button_buy_active
+  rotate: false
+  xy: 1599, 50
+  size: 272, 94
+  orig: 272, 94
+  offset: 0, 0
+  index: -1
+chips_many
+  rotate: false
+  xy: 845, 1
+  size: 151, 111
+  orig: 151, 111
+  offset: 0, 0
+  index: -1
+button_buy_inactive
+  rotate: false
+  xy: 998, 42
+  size: 272, 94
+  orig: 272, 94
+  offset: 0, 0
+  index: -1
+button_buy_pressed
+  rotate: false
+  xy: 1272, 38
+  size: 272, 94
+  orig: 272, 94
+  offset: 0, 0
+  index: -1
+sale_frame
+  rotate: false
+  xy: 1008, 277
+  size: 212, 71
+  orig: 212, 71
+  offset: 0, 0
+  index: -1
+hide_button_active
+  rotate: false
+  xy: 1814, 493
+  size: 233, 88
+  orig: 233, 88
+  offset: 0, 0
+  index: -1
+hide_button_inactive
+  rotate: false
+  xy: 1814, 403
+  size: 233, 88
+  orig: 233, 88
+  offset: 0, 0
+  index: -1
+chips_single
+  rotate: false
+  xy: 1875, 290
+  size: 151, 111
+  orig: 151, 111
+  offset: 0, 0
+  index: -1
+settings_checkbox_active
+  rotate: false
+  xy: 883, 136
+  size: 108, 75
+  orig: 108, 75
+  offset: 0, 0
+  index: -1
+settings_checkbox_inactive
+  rotate: false
+  xy: 1895, 213
+  size: 108, 75
+  orig: 108, 75
+  offset: 0, 0
+  index: -1
+money_icon
+  rotate: false
+  xy: 1738, 392
+  size: 60, 64
+  orig: 60, 64
+  offset: 0, 0
+  index: -1
+
+Windows2.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+settings_background
+  rotate: false
+  xy: 1, 242
+  size: 602, 681
+  orig: 602, 681
+  offset: 0, 0
+  index: -1
+hide_button_pressed
+  rotate: false
+  xy: 1, 152
+  size: 233, 88
+  orig: 233, 88
+  offset: 0, 0
+  index: -1
+button_close_active
+  rotate: false
+  xy: 605, 835
+  size: 231, 88
+  orig: 231, 88
+  offset: 0, 0
+  index: -1
+button_close_inactive
+  rotate: false
+  xy: 1, 62
+  size: 231, 88
+  orig: 231, 88
+  offset: 0, 0
+  index: -1
+button_close_pressed
+  rotate: false
+  xy: 236, 152
+  size: 231, 88
+  orig: 231, 88
+  offset: 0, 0
+  index: -1
+top_timer_frame_green
+  rotate: false
+  xy: 605, 774
+  size: 196, 59
+  orig: 196, 59
+  offset: 0, 0
+  index: -1
+top_timer_frame_orange
+  rotate: false
+  xy: 1, 1
+  size: 196, 59
+  orig: 196, 59
+  offset: 0, 0
+  index: -1

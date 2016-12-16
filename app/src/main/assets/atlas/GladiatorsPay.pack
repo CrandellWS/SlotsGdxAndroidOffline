@@ -1,0 +1,26 @@
+
+GladiatorsPay.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+table_shadow
+  rotate: false
+  xy: 1, 187
+  size: 1280, 26
+  orig: 1280, 26
+  offset: 0, 0
+  index: -1
+title_background
+  rotate: false
+  xy: 1, 63
+  size: 948, 122
+  orig: 948, 122
+  offset: 0, 0
+  index: -1
+symbol_background
+  rotate: false
+  xy: 951, 1
+  size: 184, 184
+  orig: 184, 184
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/candellws/Documents/GitHub/SlotsGdxAndroidOffline-master1/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="1502972ebeafa1b2145c3cfe6ca09ce61459b35e">
+        <dex dex="/home/candellws/Documents/GitHub/SlotsGdxAndroidOffline-master1/app/build/intermediates/pre-dexed/debug/instant-run-bootstrap_239d81e6a30d7e4dfcd4059bd93c2947e6b5ce2f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/candellws/Documents/GitHub/SlotsGdxAndroidOffline-master1/app/libs/gdx-backend-lwjgl.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c71bd9eb6f082ee70c8b74a009e166620e1c3801">
+        <dex dex="/home/candellws/Documents/GitHub/SlotsGdxAndroidOffline-master1/app/build/intermediates/pre-dexed/debug/gdx-backend-lwjgl_b41f0248c260679a3ae8b75421681ab4abd79052.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/candellws/Documents/GitHub/SlotsGdxAndroidOffline-master1/app/libs/gdx.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="6a373c41106948801824d3cf9513fe6a2492e268">
+        <dex dex="/home/candellws/Documents/GitHub/SlotsGdxAndroidOffline-master1/app/build/intermediates/pre-dexed/debug/gdx_de008b3438efdfed0352c060285efbe07969a6f0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/candellws/Documents/GitHub/SlotsGdxAndroidOffline-master1/app/libs/gdx-freetype.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="bd044754fb2c5df8881a3f6a4beea4683ae80cbe">
+        <dex dex="/home/candellws/Documents/GitHub/SlotsGdxAndroidOffline-master1/app/build/intermediates/pre-dexed/debug/gdx-freetype_0db329a91d0668c9f527c4154b0c1f31fcb5f809.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/candellws/Documents/GitHub/SlotsGdxAndroidOffline-master1/app/libs/gdx-backend-android.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="429d8562d367a7f1f85826aafe675cc97f0738c9">
+        <dex dex="/home/candellws/Documents/GitHub/SlotsGdxAndroidOffline-master1/app/build/intermediates/pre-dexed/debug/gdx-backend-android_37ff3fdb4dee3602cbcd7e8aad847d967c1ff4c0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/candellws/Documents/GitHub/SlotsGdxAndroidOffline-master1/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="a3e50aa49f4661a6acc494ba1c1944f7285c8925">
+        <dex dex="/home/candellws/Documents/GitHub/SlotsGdxAndroidOffline-master1/app/build/intermediates/pre-dexed/debug/instant-run_76a3442fa4485334f5ce4658708cb6a6d9e41069.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/candellws/Android/Sdk/extras/android/m2repository/com/android/support/support-v4/19.1.0/support-v4-19.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67">
+        <dex dex="/home/candellws/Documents/GitHub/SlotsGdxAndroidOffline-master1/app/build/intermediates/pre-dexed/debug/support-v4-19.1.0_bf9ee32012477679ba6a2445c5dafa66174da1c3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/candellws/Documents/GitHub/SlotsGdxAndroidOffline-master1/app/libs/google-play-services.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="b6a82434c1eca686607867cd906bcc80ed987837">
+        <dex dex="/home/candellws/Documents/GitHub/SlotsGdxAndroidOffline-master1/app/build/intermediates/pre-dexed/debug/google-play-services_8d86e545513a015ca59c4c9f509bc8302d54ce5f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/candellws/Documents/GitHub/SlotsGdxAndroidOffline-master1/app/libs/android-async-http-1.4.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="729c46fb5ef010a7fb4ddfe02d6f8466b7dcde42">
+        <dex dex="/home/candellws/Documents/GitHub/SlotsGdxAndroidOffline-master1/app/build/intermediates/pre-dexed/debug/android-async-http-1.4.2_6736ead55c80cfe49979cfad4a799c3d24e620f8.jar" />
+    </item>
+
+</items>

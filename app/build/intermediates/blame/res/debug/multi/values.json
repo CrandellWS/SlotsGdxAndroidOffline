@@ -1,0 +1,144 @@
+[
+    {
+        "outputFile": "/home/candellws/Documents/GitHub/SlotsGdxAndroidOffline-master1/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 47,
+                    "endOffset": 98
+                },
+                "from": {
+                    "file": "/home/candellws/Documents/GitHub/SlotsGdxAndroidOffline-master1/app/src/main/res/values/ids.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 63,
+                        "endColumn": 47,
+                        "endOffset": 106
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 103,
+                    "endColumn": 48,
+                    "endOffset": 147
+                },
+                "from": {
+                    "file": "/home/candellws/Documents/GitHub/SlotsGdxAndroidOffline-master1/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 19,
+                        "endColumn": 48,
+                        "endOffset": 63
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 152,
+                    "endColumn": 50,
+                    "endOffset": 198
+                },
+                "from": {
+                    "file": "/home/candellws/Documents/GitHub/SlotsGdxAndroidOffline-master1/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 6,
+                        "startOffset": 130,
+                        "endColumn": 52,
+                        "endOffset": 176
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 203,
+                    "endColumn": 60,
+                    "endOffset": 259
+                },
+                "from": {
+                    "file": "/home/candellws/Documents/GitHub/SlotsGdxAndroidOffline-master1/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 1,
+                        "startOffset": 66,
+                        "endColumn": 57,
+                        "endOffset": 122
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 264,
+                    "endColumn": 53,
+                    "endOffset": 313
+                },
+                "from": {
+                    "file": "/home/candellws/Documents/GitHub/SlotsGdxAndroidOffline-master1/app/src/main/res/values/ids.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 112,
+                        "endColumn": 53,
+                        "endOffset": 161
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 318,
+                    "endLine": 13,
+                    "endColumn": 12,
+                    "endOffset": 626
+                },
+                "from": {
+                    "file": "/home/candellws/Documents/GitHub/SlotsGdxAndroidOffline-master1/app/src/main/res/values/styles.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 191,
+                        "endLine": 12,
+                        "endColumn": 12,
+                        "endOffset": 503
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 631,
+                    "endLine": 16,
+                    "endColumn": 12,
+                    "endOffset": 786
+                },
+                "from": {
+                    "file": "/home/candellws/Documents/GitHub/SlotsGdxAndroidOffline-master1/app/src/main/res/values/styles.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 544,
+                        "endLine": 17,
+                        "endColumn": 12,
+                        "endOffset": 701
+                    }
+                }
+            }
+        ]
+    }
+]
