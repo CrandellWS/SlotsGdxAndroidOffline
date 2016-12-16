@@ -74,9 +74,9 @@ ADDED from /home/candellws/Documents/GitHub/SlotsGdxAndroidOffline-master1/app/s
 	android:icon
 		ADDED from /home/candellws/Documents/GitHub/SlotsGdxAndroidOffline-master1/app/src/main/AndroidManifest.xml:23:9-45
 	android:largeHeap
-		ADDED from /home/candellws/Documents/GitHub/SlotsGdxAndroidOffline-master1/app/src/main/AndroidManifest.xml:26:9-33
+		ADDED from /home/candellws/Documents/GitHub/SlotsGdxAndroidOffline-master1/app/src/main/AndroidManifest.xml:25:9-33
 	android:theme
-		ADDED from /home/candellws/Documents/GitHub/SlotsGdxAndroidOffline-master1/app/src/main/AndroidManifest.xml:25:9-40
+		ADDED from /home/candellws/Documents/GitHub/SlotsGdxAndroidOffline-master1/app/src/main/AndroidManifest.xml:26:9-40
 activity#mobi.square.slots.app.Main
 ADDED from /home/candellws/Documents/GitHub/SlotsGdxAndroidOffline-master1/app/src/main/AndroidManifest.xml:30:9-38:20
 	android:screenOrientation
@@ -96,6 +96,6 @@ ADDED from /home/candellws/Documents/GitHub/SlotsGdxAndroidOffline-master1/app/s
 	android:name
 		ADDED from /home/candellws/Documents/GitHub/SlotsGdxAndroidOffline-master1/app/src/main/AndroidManifest.xml:36:27-74
 activity#mobi.square.slots.app.EnterCodeActivity
-ADDED from /home/candellws/Documents/GitHub/SlotsGdxAndroidOffline-master1/app/src/main/AndroidManifest.xml:39:10-87
+ADDED from /home/candellws/Documents/GitHub/SlotsGdxAndroidOffline-master1/app/src/main/AndroidManifest.xml:39:9-85
 	android:name
-		ADDED from /home/candellws/Documents/GitHub/SlotsGdxAndroidOffline-master1/app/src/main/AndroidManifest.xml:39:20-74
+		ADDED from /home/candellws/Documents/GitHub/SlotsGdxAndroidOffline-master1/app/src/main/AndroidManifest.xml:39:19-73

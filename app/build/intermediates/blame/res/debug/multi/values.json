@@ -15,9 +15,9 @@
                     "position": {
                         "startLine": 3,
                         "startColumn": 4,
-                        "startOffset": 63,
+                        "startOffset": 59,
                         "endColumn": 47,
-                        "endOffset": 106
+                        "endOffset": 102
                     }
                 }
             },
@@ -52,10 +52,10 @@
                     "file": "/home/candellws/Documents/GitHub/SlotsGdxAndroidOffline-master1/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 4,
-                        "startColumn": 6,
-                        "startOffset": 130,
-                        "endColumn": 52,
-                        "endOffset": 176
+                        "startColumn": 4,
+                        "startOffset": 131,
+                        "endColumn": 50,
+                        "endOffset": 177
                     }
                 }
             },
@@ -71,10 +71,10 @@
                     "file": "/home/candellws/Documents/GitHub/SlotsGdxAndroidOffline-master1/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 3,
-                        "startColumn": 1,
-                        "startOffset": 66,
-                        "endColumn": 57,
-                        "endOffset": 122
+                        "startColumn": 4,
+                        "startOffset": 69,
+                        "endColumn": 60,
+                        "endOffset": 125
                     }
                 }
             },
@@ -91,9 +91,9 @@
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
-                        "startOffset": 112,
+                        "startOffset": 108,
                         "endColumn": 53,
-                        "endOffset": 161
+                        "endOffset": 157
                     }
                 }
             },

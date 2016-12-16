@@ -38,8 +38,7 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name="mobi.square.slots.app.EnterCodeActivity" >
-        </activity>
+        <activity android:name="mobi.square.slots.app.EnterCodeActivity" />
     </application>
 
 </manifest>
