@@ -1,0 +1,103 @@
+
+MoneyGame.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+foreground
+  rotate: false
+  xy: 1, 345
+  size: 1280, 571
+  orig: 1280, 571
+  offset: 0, 0
+  index: -1
+n01
+  rotate: false
+  xy: 1, 173
+  size: 171, 170
+  orig: 171, 170
+  offset: 0, 0
+  index: -1
+n02
+  rotate: false
+  xy: 1283, 746
+  size: 171, 170
+  orig: 171, 170
+  offset: 0, 0
+  index: -1
+n03
+  rotate: false
+  xy: 1, 1
+  size: 171, 170
+  orig: 171, 170
+  offset: 0, 0
+  index: -1
+n04
+  rotate: false
+  xy: 174, 173
+  size: 171, 170
+  orig: 171, 170
+  offset: 0, 0
+  index: -1
+n05
+  rotate: false
+  xy: 1283, 574
+  size: 171, 170
+  orig: 171, 170
+  offset: 0, 0
+  index: -1
+n06
+  rotate: false
+  xy: 1456, 746
+  size: 171, 170
+  orig: 171, 170
+  offset: 0, 0
+  index: -1
+n07
+  rotate: false
+  xy: 174, 1
+  size: 171, 170
+  orig: 171, 170
+  offset: 0, 0
+  index: -1
+n08
+  rotate: false
+  xy: 347, 173
+  size: 171, 170
+  orig: 171, 170
+  offset: 0, 0
+  index: -1
+n09
+  rotate: false
+  xy: 1283, 402
+  size: 171, 170
+  orig: 171, 170
+  offset: 0, 0
+  index: -1
+n10
+  rotate: false
+  xy: 1456, 574
+  size: 171, 170
+  orig: 171, 170
+  offset: 0, 0
+  index: -1
+n11
+  rotate: false
+  xy: 1629, 746
+  size: 171, 170
+  orig: 171, 170
+  offset: 0, 0
+  index: -1
+scatter
+  rotate: false
+  xy: 347, 1
+  size: 171, 170
+  orig: 171, 170
+  offset: 0, 0
+  index: -1
+wild
+  rotate: false
+  xy: 520, 173
+  size: 171, 170
+  orig: 171, 170
+  offset: 0, 0
+  index: -1

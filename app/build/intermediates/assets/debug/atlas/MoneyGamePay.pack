@@ -1,0 +1,26 @@
+
+MoneyGamePay.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+table_shadow
+  rotate: false
+  xy: 1, 200
+  size: 1280, 26
+  orig: 1280, 26
+  offset: 0, 0
+  index: -1
+title_background
+  rotate: false
+  xy: 1, 91
+  size: 888, 107
+  orig: 888, 107
+  offset: 0, 0
+  index: -1
+symbol_background
+  rotate: false
+  xy: 891, 1
+  size: 196, 197
+  orig: 196, 197
+  offset: 0, 0
+  index: -1

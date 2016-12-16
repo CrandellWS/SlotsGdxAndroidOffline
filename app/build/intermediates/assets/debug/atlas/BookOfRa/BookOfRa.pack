@@ -1,0 +1,199 @@
+
+BookOfRa.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+foreground
+  rotate: false
+  xy: 1, 347
+  size: 1280, 653
+  orig: 1280, 653
+  offset: 0, 0
+  index: -1
+text_background
+  rotate: false
+  xy: 1, 206
+  size: 632, 139
+  orig: 632, 139
+  offset: 0, 0
+  index: -1
+book
+  rotate: false
+  xy: 1283, 831
+  size: 424, 169
+  orig: 424, 169
+  offset: 0, 0
+  index: -1
+n01
+  rotate: false
+  xy: 1, 33
+  size: 172, 171
+  orig: 172, 171
+  offset: 0, 0
+  index: -1
+n01g
+  rotate: false
+  xy: 1283, 658
+  size: 172, 171
+  orig: 172, 171
+  offset: 0, 0
+  index: -1
+n02
+  rotate: false
+  xy: 175, 33
+  size: 172, 171
+  orig: 172, 171
+  offset: 0, 0
+  index: -1
+n02g
+  rotate: false
+  xy: 1283, 485
+  size: 172, 171
+  orig: 172, 171
+  offset: 0, 0
+  index: -1
+n03
+  rotate: false
+  xy: 1457, 658
+  size: 172, 171
+  orig: 172, 171
+  offset: 0, 0
+  index: -1
+n03g
+  rotate: false
+  xy: 349, 33
+  size: 172, 171
+  orig: 172, 171
+  offset: 0, 0
+  index: -1
+n04
+  rotate: false
+  xy: 1457, 485
+  size: 172, 171
+  orig: 172, 171
+  offset: 0, 0
+  index: -1
+n04g
+  rotate: false
+  xy: 1709, 829
+  size: 172, 171
+  orig: 172, 171
+  offset: 0, 0
+  index: -1
+n05
+  rotate: false
+  xy: 635, 174
+  size: 172, 171
+  orig: 172, 171
+  offset: 0, 0
+  index: -1
+n05g
+  rotate: false
+  xy: 809, 174
+  size: 172, 171
+  orig: 172, 171
+  offset: 0, 0
+  index: -1
+n06
+  rotate: false
+  xy: 983, 174
+  size: 172, 171
+  orig: 172, 171
+  offset: 0, 0
+  index: -1
+n06g
+  rotate: false
+  xy: 1283, 312
+  size: 172, 171
+  orig: 172, 171
+  offset: 0, 0
+  index: -1
+n07
+  rotate: false
+  xy: 1457, 312
+  size: 172, 171
+  orig: 172, 171
+  offset: 0, 0
+  index: -1
+n07g
+  rotate: false
+  xy: 1631, 656
+  size: 172, 171
+  orig: 172, 171
+  offset: 0, 0
+  index: -1
+n08
+  rotate: false
+  xy: 1631, 483
+  size: 172, 171
+  orig: 172, 171
+  offset: 0, 0
+  index: -1
+n08g
+  rotate: false
+  xy: 1631, 310
+  size: 172, 171
+  orig: 172, 171
+  offset: 0, 0
+  index: -1
+n09
+  rotate: false
+  xy: 1805, 656
+  size: 172, 171
+  orig: 172, 171
+  offset: 0, 0
+  index: -1
+n09g
+  rotate: false
+  xy: 1805, 483
+  size: 172, 171
+  orig: 172, 171
+  offset: 0, 0
+  index: -1
+n09_bonus
+  rotate: false
+  xy: 1805, 310
+  size: 172, 171
+  orig: 172, 171
+  offset: 0, 0
+  index: -1
+wild
+  rotate: false
+  xy: 523, 1
+  size: 172, 171
+  orig: 172, 171
+  offset: 0, 0
+  index: -1
+wildg
+  rotate: false
+  xy: 697, 1
+  size: 172, 171
+  orig: 172, 171
+  offset: 0, 0
+  index: -1
+wild_bonus
+  rotate: false
+  xy: 871, 1
+  size: 172, 171
+  orig: 172, 171
+  offset: 0, 0
+  index: -1
+book_symbol
+  rotate: false
+  xy: 1157, 272
+  size: 99, 73
+  orig: 99, 73
+  offset: 0, 0
+  index: -1
+
+BookOfRa2.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+plate
+  rotate: false
+  xy: 1, 1
+  size: 787, 457
+  orig: 787, 457
+  offset: 0, 0
+  index: -1

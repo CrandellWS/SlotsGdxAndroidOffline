@@ -1,0 +1,103 @@
+
+GarageBoxes.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+gauge
+  rotate: false
+  xy: 1, 72
+  size: 168, 402
+  orig: 168, 402
+  offset: 0, 0
+  index: -1
+label_background
+  rotate: false
+  xy: 171, 415
+  size: 300, 59
+  orig: 300, 59
+  offset: 0, 0
+  index: -1
+box_closed
+  rotate: false
+  xy: 171, 278
+  size: 165, 135
+  orig: 165, 135
+  offset: 0, 0
+  index: -1
+box_disc
+  rotate: false
+  xy: 171, 141
+  size: 165, 135
+  orig: 165, 135
+  offset: 0, 0
+  index: -1
+box_flashlight
+  rotate: false
+  xy: 338, 278
+  size: 165, 135
+  orig: 165, 135
+  offset: 0, 0
+  index: -1
+box_hammer
+  rotate: false
+  xy: 338, 141
+  size: 165, 135
+  orig: 165, 135
+  offset: 0, 0
+  index: -1
+box_jigsaw
+  rotate: false
+  xy: 505, 339
+  size: 165, 135
+  orig: 165, 135
+  offset: 0, 0
+  index: -1
+box_opened
+  rotate: false
+  xy: 505, 202
+  size: 165, 135
+  orig: 165, 135
+  offset: 0, 0
+  index: -1
+box_stop
+  rotate: false
+  xy: 672, 339
+  size: 165, 135
+  orig: 165, 135
+  offset: 0, 0
+  index: -1
+box_wrench
+  rotate: false
+  xy: 672, 202
+  size: 165, 135
+  orig: 165, 135
+  offset: 0, 0
+  index: -1
+gauge_prize_hammer
+  rotate: false
+  xy: 1, 1
+  size: 168, 69
+  orig: 168, 69
+  offset: 0, 0
+  index: -1
+gauge_prize_jigsaw
+  rotate: false
+  xy: 171, 70
+  size: 168, 69
+  orig: 168, 69
+  offset: 0, 0
+  index: -1
+gauge_prize_wrench
+  rotate: false
+  xy: 839, 405
+  size: 168, 69
+  orig: 168, 69
+  offset: 0, 0
+  index: -1
+gauge_active
+  rotate: false
+  xy: 505, 169
+  size: 168, 31
+  orig: 168, 31
+  offset: 0, 0
+  index: -1

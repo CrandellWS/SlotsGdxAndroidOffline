@@ -1,0 +1,47 @@
+
+ResidentLocks.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+safe_closed
+  rotate: false
+  xy: 1, 1
+  size: 264, 201
+  orig: 264, 201
+  offset: 0, 0
+  index: -1
+safe_opened
+  rotate: false
+  xy: 267, 1
+  size: 264, 201
+  orig: 264, 201
+  offset: 0, 0
+  index: -1
+fire_bottle
+  rotate: false
+  xy: 533, 1
+  size: 119, 201
+  orig: 119, 201
+  offset: 0, 0
+  index: -1
+bomb_active
+  rotate: false
+  xy: 654, 19
+  size: 114, 183
+  orig: 114, 183
+  offset: 0, 0
+  index: -1
+bomb_inactive
+  rotate: false
+  xy: 770, 19
+  size: 114, 183
+  orig: 114, 183
+  offset: 0, 0
+  index: -1
+money_prize
+  rotate: false
+  xy: 886, 19
+  size: 114, 183
+  orig: 114, 183
+  offset: 0, 0
+  index: -1

@@ -7,7 +7,7 @@
         jumboMode="true"
         optimize="true"
         revision="25.0.1"
-        sha1="1502972ebeafa1b2145c3cfe6ca09ce61459b35e">
+        sha1="7f119536ca370bf85ad2b410763a6f3f4a2f29f0">
         <dex dex="/home/candellws/Documents/GitHub/SlotsGdxAndroidOffline-master1/app/build/intermediates/pre-dexed/debug/instant-run-bootstrap_239d81e6a30d7e4dfcd4059bd93c2947e6b5ce2f.jar" />
     </item>
     <item
@@ -52,7 +52,7 @@
         jumboMode="true"
         optimize="true"
         revision="25.0.1"
-        sha1="a3e50aa49f4661a6acc494ba1c1944f7285c8925">
+        sha1="8f622ef91626c542d47c91d63451a0666714fc19">
         <dex dex="/home/candellws/Documents/GitHub/SlotsGdxAndroidOffline-master1/app/build/intermediates/pre-dexed/debug/instant-run_76a3442fa4485334f5ce4658708cb6a6d9e41069.jar" />
     </item>
     <item

@@ -1,0 +1,146 @@
+
+Header.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+loading_icon_inner
+  rotate: false
+  xy: 1, 108
+  size: 142, 141
+  orig: 142, 141
+  offset: 0, 0
+  index: -1
+loading_icon_outer
+  rotate: false
+  xy: 145, 108
+  size: 142, 141
+  orig: 142, 141
+  offset: 0, 0
+  index: -1
+money_frame
+  rotate: false
+  xy: 289, 184
+  size: 419, 65
+  orig: 419, 65
+  offset: 0, 0
+  index: -1
+button_cup_active
+  rotate: false
+  xy: 710, 184
+  size: 200, 65
+  orig: 200, 65
+  offset: 0, 0
+  index: -1
+money_icon
+  rotate: false
+  xy: 912, 185
+  size: 60, 64
+  orig: 60, 64
+  offset: 0, 0
+  index: -1
+button_settings_active
+  rotate: false
+  xy: 912, 126
+  size: 57, 57
+  orig: 57, 57
+  offset: 0, 0
+  index: -1
+header_background
+  rotate: false
+  xy: 971, 167
+  size: 16, 16
+  split: 7, 8, 4, 11
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+button_cup_inactive
+  rotate: false
+  xy: 289, 117
+  size: 200, 65
+  orig: 200, 65
+  offset: 0, 0
+  index: -1
+button_cup_pressed
+  rotate: false
+  xy: 491, 117
+  size: 200, 65
+  orig: 200, 65
+  offset: 0, 0
+  index: -1
+button_top_active
+  rotate: false
+  xy: 693, 117
+  size: 200, 65
+  orig: 200, 65
+  offset: 0, 0
+  index: -1
+button_top_inactive
+  rotate: false
+  xy: 289, 50
+  size: 200, 65
+  orig: 200, 65
+  offset: 0, 0
+  index: -1
+button_top_pressed
+  rotate: false
+  xy: 1, 41
+  size: 200, 65
+  orig: 200, 65
+  offset: 0, 0
+  index: -1
+button_settings_inactive
+  rotate: false
+  xy: 203, 49
+  size: 57, 57
+  orig: 57, 57
+  offset: 0, 0
+  index: -1
+button_lobby_active
+  rotate: false
+  xy: 491, 58
+  size: 139, 57
+  orig: 139, 57
+  offset: 0, 0
+  index: -1
+button_lobby_inactive
+  rotate: false
+  xy: 632, 58
+  size: 139, 57
+  orig: 139, 57
+  offset: 0, 0
+  index: -1
+button_lobby_pressed
+  rotate: false
+  xy: 773, 58
+  size: 139, 57
+  orig: 139, 57
+  offset: 0, 0
+  index: -1
+button_bank_active
+  rotate: false
+  xy: 491, 1
+  size: 132, 55
+  orig: 132, 55
+  offset: 0, 0
+  index: -1
+button_bank_inactive
+  rotate: false
+  xy: 625, 1
+  size: 132, 55
+  orig: 132, 55
+  offset: 0, 0
+  index: -1
+button_bank_pressed
+  rotate: false
+  xy: 759, 1
+  size: 132, 55
+  orig: 132, 55
+  offset: 0, 0
+  index: -1
+button_settings_pressed
+  rotate: false
+  xy: 914, 67
+  size: 57, 57
+  orig: 57, 57
+  offset: 0, 0
+  index: -1

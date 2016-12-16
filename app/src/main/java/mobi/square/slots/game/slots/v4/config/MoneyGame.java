@@ -239,35 +239,35 @@ public class MoneyGame extends CSlotsBase {
             // N11 мешок
             {0, 2, 25, 125, 750}
     };
-    // Процент пустых выплат
-    private static final double blank_percent = 0.25d;
-    // Процент дополнительных нулевых выплат при отрицательном балансе
+    // the percentage of empty payments
+    private static final double blank_percent = 0.05d;
+    // Percentage additional payments with zero negative balance
     private static final double zero_negative_percent = 0.2d;
-    // Процент выпадения WILD'ов на выигрышной комбинации
+    // The percentage loss WILD's on the winning combination
     private static final double wild_percent = 0.04d;
-    // Индексы барабанов, на которых запрещено выпадение символа WILD
+    // Indices of reels on which symbols prohibited loss WILD symbol
     private static final int[] drop_wild = {};
-    // Индексы барабанов, на которых запрещено выпадение символа SCATTER
+    // Indices of reels on which symbols prohibited loss SCATTER
     private static final int[] drop_scatter = {};
-    // Символы, не заменяемые WILD'ом
+    //  Characters that are not replaceable
     private static final Symbol[] non_wild_symbols = {Symbol.SCATTER};
-    // Возможные ставки
+    // Bet rates
     private static final int[] valid_bets = {1, 2, 5, 10, 20, 30, 50, 100}; //{ 1, 2, 5, 10, 20, 30, 50, 100, 200, 500 };
-    // Возможное количетсво линий
+    // number of line options
     private static final int[] valid_lines = {1, 3, 5, 7, 9};
-    // Количество барабанов (нельзя менять)
+    // Number of drums/reels (can not be changed)
     private static final int reels_count = 5;
-    // Количество символов на барабанах
+    // The number of symbols on the reels
     private static final int symbols_on_reel = 3;
-    // Умножение ставки по линии с WILD
+    // Multiplication rates on line with WILD
     private static final int wild_multiplier = 2;
-    // Набор игровых линий
+    // Set paylines
     private static final Lines lines_set = Lines.LINES_3X_09_V1;
-    // Тип игры на риск
+    // Game type risks
     private static final RiskType risk_type = RiskType.COLOR;
-    // Ревизия автомата
+    // Revision Version
     private static final int revision = 1;
-    // Название слотов (англ.)
+    // Name slots (Eng.)
     private static final String title = "money_game";
     private static final String background_path = "/SlotsWeb3/resources/img/slots/money_game_bg.js";
     private static final String symbols_path = "/SlotsWeb3/resources/img/slots/money_game.js";

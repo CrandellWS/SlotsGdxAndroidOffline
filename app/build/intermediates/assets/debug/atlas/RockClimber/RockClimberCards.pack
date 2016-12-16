@@ -1,0 +1,395 @@
+
+RockClimberCards.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+card_ace_clubs
+  rotate: false
+  xy: 1, 683
+  size: 223, 339
+  orig: 223, 339
+  offset: 0, 0
+  index: -1
+card_ace_diamonds
+  rotate: false
+  xy: 1, 342
+  size: 223, 339
+  orig: 223, 339
+  offset: 0, 0
+  index: -1
+card_ace_hearts
+  rotate: false
+  xy: 226, 683
+  size: 223, 339
+  orig: 223, 339
+  offset: 0, 0
+  index: -1
+card_ace_spades
+  rotate: false
+  xy: 1, 1
+  size: 223, 339
+  orig: 223, 339
+  offset: 0, 0
+  index: -1
+card_back
+  rotate: false
+  xy: 226, 342
+  size: 223, 339
+  orig: 223, 339
+  offset: 0, 0
+  index: -1
+card_eight_clubs
+  rotate: false
+  xy: 451, 683
+  size: 223, 339
+  orig: 223, 339
+  offset: 0, 0
+  index: -1
+card_eight_diamonds
+  rotate: false
+  xy: 226, 1
+  size: 223, 339
+  orig: 223, 339
+  offset: 0, 0
+  index: -1
+card_eight_hearts
+  rotate: false
+  xy: 451, 342
+  size: 223, 339
+  orig: 223, 339
+  offset: 0, 0
+  index: -1
+card_eight_spades
+  rotate: false
+  xy: 676, 683
+  size: 223, 339
+  orig: 223, 339
+  offset: 0, 0
+  index: -1
+card_five_clubs
+  rotate: false
+  xy: 451, 1
+  size: 223, 339
+  orig: 223, 339
+  offset: 0, 0
+  index: -1
+card_five_diamonds
+  rotate: false
+  xy: 676, 342
+  size: 223, 339
+  orig: 223, 339
+  offset: 0, 0
+  index: -1
+card_five_hearts
+  rotate: false
+  xy: 901, 683
+  size: 223, 339
+  orig: 223, 339
+  offset: 0, 0
+  index: -1
+card_five_spades
+  rotate: false
+  xy: 676, 1
+  size: 223, 339
+  orig: 223, 339
+  offset: 0, 0
+  index: -1
+card_four_clubs
+  rotate: false
+  xy: 901, 342
+  size: 223, 339
+  orig: 223, 339
+  offset: 0, 0
+  index: -1
+card_four_diamonds
+  rotate: false
+  xy: 1126, 683
+  size: 223, 339
+  orig: 223, 339
+  offset: 0, 0
+  index: -1
+card_four_hearts
+  rotate: false
+  xy: 901, 1
+  size: 223, 339
+  orig: 223, 339
+  offset: 0, 0
+  index: -1
+card_four_spades
+  rotate: false
+  xy: 1126, 342
+  size: 223, 339
+  orig: 223, 339
+  offset: 0, 0
+  index: -1
+card_jack_clubs
+  rotate: false
+  xy: 1351, 683
+  size: 223, 339
+  orig: 223, 339
+  offset: 0, 0
+  index: -1
+card_jack_diamonds
+  rotate: false
+  xy: 1126, 1
+  size: 223, 339
+  orig: 223, 339
+  offset: 0, 0
+  index: -1
+card_jack_hearts
+  rotate: false
+  xy: 1351, 342
+  size: 223, 339
+  orig: 223, 339
+  offset: 0, 0
+  index: -1
+card_jack_spades
+  rotate: false
+  xy: 1576, 683
+  size: 223, 339
+  orig: 223, 339
+  offset: 0, 0
+  index: -1
+card_joker_black
+  rotate: false
+  xy: 1351, 1
+  size: 223, 339
+  orig: 223, 339
+  offset: 0, 0
+  index: -1
+card_joker_red
+  rotate: false
+  xy: 1351, 1
+  size: 223, 339
+  orig: 223, 339
+  offset: 0, 0
+  index: -1
+card_king_clubs
+  rotate: false
+  xy: 1576, 342
+  size: 223, 339
+  orig: 223, 339
+  offset: 0, 0
+  index: -1
+card_king_diamonds
+  rotate: false
+  xy: 1801, 683
+  size: 223, 339
+  orig: 223, 339
+  offset: 0, 0
+  index: -1
+card_king_hearts
+  rotate: false
+  xy: 1576, 1
+  size: 223, 339
+  orig: 223, 339
+  offset: 0, 0
+  index: -1
+card_king_spades
+  rotate: false
+  xy: 1801, 342
+  size: 223, 339
+  orig: 223, 339
+  offset: 0, 0
+  index: -1
+card_nine_clubs
+  rotate: false
+  xy: 1801, 1
+  size: 223, 339
+  orig: 223, 339
+  offset: 0, 0
+  index: -1
+
+RockClimberCards2.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+card_nine_diamonds
+  rotate: false
+  xy: 1, 683
+  size: 223, 339
+  orig: 223, 339
+  offset: 0, 0
+  index: -1
+card_nine_hearts
+  rotate: false
+  xy: 1, 342
+  size: 223, 339
+  orig: 223, 339
+  offset: 0, 0
+  index: -1
+card_nine_spades
+  rotate: false
+  xy: 226, 683
+  size: 223, 339
+  orig: 223, 339
+  offset: 0, 0
+  index: -1
+card_queen_clubs
+  rotate: false
+  xy: 1, 1
+  size: 223, 339
+  orig: 223, 339
+  offset: 0, 0
+  index: -1
+card_queen_diamonds
+  rotate: false
+  xy: 226, 342
+  size: 223, 339
+  orig: 223, 339
+  offset: 0, 0
+  index: -1
+card_queen_hearts
+  rotate: false
+  xy: 451, 683
+  size: 223, 339
+  orig: 223, 339
+  offset: 0, 0
+  index: -1
+card_queen_spades
+  rotate: false
+  xy: 226, 1
+  size: 223, 339
+  orig: 223, 339
+  offset: 0, 0
+  index: -1
+card_seven_clubs
+  rotate: false
+  xy: 451, 342
+  size: 223, 339
+  orig: 223, 339
+  offset: 0, 0
+  index: -1
+card_seven_diamonds
+  rotate: false
+  xy: 676, 683
+  size: 223, 339
+  orig: 223, 339
+  offset: 0, 0
+  index: -1
+card_seven_hearts
+  rotate: false
+  xy: 451, 1
+  size: 223, 339
+  orig: 223, 339
+  offset: 0, 0
+  index: -1
+card_seven_spades
+  rotate: false
+  xy: 676, 342
+  size: 223, 339
+  orig: 223, 339
+  offset: 0, 0
+  index: -1
+card_six_clubs
+  rotate: false
+  xy: 901, 683
+  size: 223, 339
+  orig: 223, 339
+  offset: 0, 0
+  index: -1
+card_six_diamonds
+  rotate: false
+  xy: 676, 1
+  size: 223, 339
+  orig: 223, 339
+  offset: 0, 0
+  index: -1
+card_six_hearts
+  rotate: false
+  xy: 901, 342
+  size: 223, 339
+  orig: 223, 339
+  offset: 0, 0
+  index: -1
+card_six_spades
+  rotate: false
+  xy: 1126, 683
+  size: 223, 339
+  orig: 223, 339
+  offset: 0, 0
+  index: -1
+card_ten_clubs
+  rotate: false
+  xy: 901, 1
+  size: 223, 339
+  orig: 223, 339
+  offset: 0, 0
+  index: -1
+card_ten_diamonds
+  rotate: false
+  xy: 1126, 342
+  size: 223, 339
+  orig: 223, 339
+  offset: 0, 0
+  index: -1
+card_ten_hearts
+  rotate: false
+  xy: 1351, 683
+  size: 223, 339
+  orig: 223, 339
+  offset: 0, 0
+  index: -1
+card_ten_spades
+  rotate: false
+  xy: 1126, 1
+  size: 223, 339
+  orig: 223, 339
+  offset: 0, 0
+  index: -1
+card_three_clubs
+  rotate: false
+  xy: 1351, 342
+  size: 223, 339
+  orig: 223, 339
+  offset: 0, 0
+  index: -1
+card_three_diamonds
+  rotate: false
+  xy: 1576, 683
+  size: 223, 339
+  orig: 223, 339
+  offset: 0, 0
+  index: -1
+card_three_hearts
+  rotate: false
+  xy: 1351, 1
+  size: 223, 339
+  orig: 223, 339
+  offset: 0, 0
+  index: -1
+card_three_spades
+  rotate: false
+  xy: 1576, 342
+  size: 223, 339
+  orig: 223, 339
+  offset: 0, 0
+  index: -1
+card_two_clubs
+  rotate: false
+  xy: 1801, 683
+  size: 223, 339
+  orig: 223, 339
+  offset: 0, 0
+  index: -1
+card_two_diamonds
+  rotate: false
+  xy: 1576, 1
+  size: 223, 339
+  orig: 223, 339
+  offset: 0, 0
+  index: -1
+card_two_hearts
+  rotate: false
+  xy: 1801, 342
+  size: 223, 339
+  orig: 223, 339
+  offset: 0, 0
+  index: -1
+card_two_spades
+  rotate: false
+  xy: 1801, 1
+  size: 223, 339
+  orig: 223, 339
+  offset: 0, 0
+  index: -1

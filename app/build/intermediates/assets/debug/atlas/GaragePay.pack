@@ -1,0 +1,47 @@
+
+GaragePay.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+table_shadow
+  rotate: false
+  xy: 1, 176
+  size: 1280, 26
+  orig: 1280, 26
+  offset: 0, 0
+  index: -1
+title_background
+  rotate: false
+  xy: 1, 67
+  size: 930, 107
+  orig: 930, 107
+  offset: 0, 0
+  index: -1
+orange_frame
+  rotate: false
+  xy: 1283, 25
+  size: 760, 177
+  orig: 760, 177
+  offset: 0, 0
+  index: -1
+symbol_background
+  rotate: false
+  xy: 933, 4
+  size: 175, 170
+  orig: 175, 170
+  offset: 0, 0
+  index: -1
+symbol_any
+  rotate: false
+  xy: 1110, 41
+  size: 138, 133
+  orig: 138, 133
+  offset: 0, 0
+  index: -1
+table_arrow
+  rotate: false
+  xy: 1, 1
+  size: 92, 64
+  orig: 92, 64
+  offset: 0, 0
+  index: -1

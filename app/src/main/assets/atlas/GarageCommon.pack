@@ -1,0 +1,12 @@
+
+GarageCommon.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+game_over_label
+  rotate: false
+  xy: 1, 1
+  size: 628, 252
+  orig: 628, 252
+  offset: 0, 0
+  index: -1
