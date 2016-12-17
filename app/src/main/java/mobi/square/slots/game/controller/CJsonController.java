@@ -57,6 +57,7 @@ public class CJsonController {
             case CRAZY_MONKEY:
             case UNDERWATER_LIFE:
             case MONEY_GAME:
+            case MAKEUP_GAME:
             case RESIDENT:
             case GARAGE:
             case ROCKCLIMBER:

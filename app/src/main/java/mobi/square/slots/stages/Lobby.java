@@ -415,6 +415,7 @@ public class Lobby extends Header {
                 case FAIRYTALE:
                 case UNDERWATER_LIFE:
                 case MONEY_GAME:
+                case MAKEUP_GAME:
                     screen = new SSinglePlayer(this.type);
                     break;
                 case ROCKCLIMBER:

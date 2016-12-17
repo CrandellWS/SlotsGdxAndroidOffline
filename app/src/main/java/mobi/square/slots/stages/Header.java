@@ -1,5 +1,9 @@
 package mobi.square.slots.stages;
 
+import android.content.Context;
+import android.content.Intent;
+import android.net.Uri;
+
 import com.badlogic.gdx.Gdx;
 import com.badlogic.gdx.graphics.g2d.TextureAtlas;
 import com.badlogic.gdx.scenes.scene2d.InputEvent;
@@ -468,12 +472,14 @@ public abstract class Header extends Basic {
     }
 
     protected void showBankWindow() {
-        try {
-            Connection.getInstance().requestInitBank(this.bank_handler);
-        } catch (StringCodeException e) {
-            Log.log(e);
-        }
-        this.bank_window.show(this.bank_loading_handler);
+//        try {
+//            Connection.getInstance().requestInitBank(this.bank_handler);
+//        } catch (StringCodeException e) {
+//            Log.log(e);
+//        }
+//        this.bank_window.show(this.bank_loading_handler);
+
+        Connection.getWrapper().gotoWebsite();
     }
 
     public void hideBankWindow() {

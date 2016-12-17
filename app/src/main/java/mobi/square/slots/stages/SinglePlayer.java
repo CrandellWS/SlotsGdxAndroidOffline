@@ -41,6 +41,7 @@ import mobi.square.slots.ui.payout.TBasic;
 import mobi.square.slots.ui.payout.TFairytale;
 import mobi.square.slots.ui.payout.TGarage;
 import mobi.square.slots.ui.payout.TGladiators;
+import mobi.square.slots.ui.payout.TMakeupGame;
 import mobi.square.slots.ui.payout.TMoneyGame;
 import mobi.square.slots.ui.payout.TResident;
 import mobi.square.slots.ui.payout.TUnderwaterLife;
@@ -368,6 +369,8 @@ public class SinglePlayer extends Header {
                     return TUnderwaterLife.newInstance(pay_background, pay_atlas, this.machine.atlas, windows_atlas);
                 case BOOK_OF_RA:
                     return TBookOfRa.newInstance(pay_background, pay_atlas, this.machine.atlas, windows_atlas);
+                case MAKEUP_GAME:
+                    return TMakeupGame.newInstance(pay_background, pay_atlas, this.machine.atlas, windows_atlas);
                 default:
                     return null;
             }

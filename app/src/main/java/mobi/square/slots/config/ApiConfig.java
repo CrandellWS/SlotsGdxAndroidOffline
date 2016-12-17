@@ -6,10 +6,11 @@ public class ApiConfig {
     public static final String BILLING_KEY = "Pw5F13eZ0x";
     public static final String SERVER_URL = "http://192.168.1.3:8080/SlotsWeb3/android";
     //public static final String SERVER_URL = "http://playhall.mobi/slots/Android";
-    public static final String DOWNLOAD_URL = "http://playhall.mobi/SlotsWeb3/resources/dl/";
+//    public static final String DOWNLOAD_URL = "http://playhall.mobi/SlotsWeb3/resources/dl/";
+    public static final String DOWNLOAD_URL = "http://localhost";
     public static final String CLIENT_VERSION = "3.3.0";
     public static final int CLIENT_REVISION = 27;
-    public static final String DEFAULT_LANGUAGE = "RU";
+    public static final String DEFAULT_LANGUAGE = "EN";
     public static final int CONNECTION_TIMEOUT = 5000;
     public static final boolean BILLING_DEBUG_LOG = false;
 

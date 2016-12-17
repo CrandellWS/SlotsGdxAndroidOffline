@@ -105,6 +105,8 @@ public class CSlots implements Serializable {
                 return new mobi.square.slots.game.slots.v4.config.BookOfRa(slots);
             case ROCKCLIMBER:
                 return new mobi.square.slots.game.slots.v4.config.RockClimber(slots);
+            case MAKEUP_GAME:
+                return new mobi.square.slots.game.slots.v4.config.MakeupGame(slots);
             default:
                 return null;
         }
@@ -180,6 +182,12 @@ public class CSlots implements Serializable {
 
         slots = new Slots();
         slots.setType(SlotsType.ROCKCLIMBER);
+        slots.setMinLevel(1);
+        slots.setRoom(1);
+        slots_list.add(slots);
+
+        slots = new Slots();
+        slots.setType(SlotsType.MAKEUP_GAME);
         slots.setMinLevel(1);
         slots.setRoom(1);
         slots_list.add(slots);

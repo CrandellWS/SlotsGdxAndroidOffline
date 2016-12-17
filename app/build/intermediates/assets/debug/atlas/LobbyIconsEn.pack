@@ -59,6 +59,13 @@ underwater_life
   orig: 268, 267
   offset: 0, 0
   index: -1
+makeup_game
+  rotate: false
+  xy: 541, 539
+  size: 268, 267
+  orig: 268, 267
+  offset: 0, 0
+  index: -1
 
 LobbyIconsEn2.png
 format: RGBA8888

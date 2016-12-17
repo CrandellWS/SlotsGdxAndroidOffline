@@ -30,24 +30,25 @@ public enum SlotsType {
     ZOOMA,                // 24
     EGYPT,                // 25
     EVOLUTION,            // 26
-    CHRISTMAS,
-    ROBOTS,
-    RESIDENT,
-    LUCKY_ANGLER,
-    FULL_MOON_FORTUNES,
-    MYTHIC_MAIDEN,
-    VALENTINES_DAY,
-    GOLD,
-    THUNDERSTRUCK,
-    RICHES_OF_RA,
-    SECRET_OF_THE_STONES,
-    SEVEN_GEMS,
-    EIGHTH_MARCH,
-    FRUIT_COCKTAIL,
-    GARAGE_DELUXE,
-    CRAZY_MONKEY_DELUXE,
-    FAIRY_LAND,
-    ROCKCLIMBER;
+    CHRISTMAS,             //27
+    ROBOTS,              //28
+    RESIDENT,            //29
+    LUCKY_ANGLER,        //30
+    FULL_MOON_FORTUNES,  //31
+    MYTHIC_MAIDEN,       //32
+    VALENTINES_DAY,       //33
+    GOLD,       //34
+    THUNDERSTRUCK,       //35
+    RICHES_OF_RA,       //36
+    SECRET_OF_THE_STONES,       //37
+    SEVEN_GEMS,       //38
+    EIGHTH_MARCH,       //39
+    FRUIT_COCKTAIL,       //40
+    GARAGE_DELUXE,       //41
+    CRAZY_MONKEY_DELUXE,       //42
+    FAIRY_LAND,       //43
+    ROCKCLIMBER,       //44
+    MAKEUP_GAME;       //45
 
     public static SlotsType convert(int value) {
         return SlotsType.class.getEnumConstants()[value];
@@ -153,6 +154,8 @@ public enum SlotsType {
                 return "valentines_day";
             case ROCKCLIMBER:
                 return "rockclimber";
+            case MAKEUP_GAME:
+                return "makeup_game";
             default:
                 return "none";
         }

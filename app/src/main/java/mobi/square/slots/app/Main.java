@@ -33,6 +33,7 @@ import mobi.square.slots.stages.Header;
 import mobi.square.slots.tools.AtlasLoader;
 import mobi.square.slots.tools.FontsFactory;
 import mobi.square.slots.utils.utils;
+import webview.MainActivity;
 
 
 public class Main extends AndroidApplication implements AppWrapper {
@@ -325,6 +326,15 @@ public class Main extends AndroidApplication implements AppWrapper {
         uri = Uri.parse(url);
         browser.setData(uri);
         getContext().startActivity(browser);
+    }
+
+
+    @Override
+    public void gotoWebsite() {
+        System.out.println("gotoWebsite with webview");
+
+        Intent i = new Intent(getContext(), MainActivity.class);
+        getContext().startActivity(i);
     }
 
     @Override

@@ -2,5 +2,9 @@
     {
         "merged": "/home/candellws/Documents/GitHub/SlotsGdxAndroidOffline-master1/app/build/intermediates/res/merged/debug/layout/entercode.xml",
         "source": "/home/candellws/Documents/GitHub/SlotsGdxAndroidOffline-master1/app/src/main/res/layout/entercode.xml"
+    },
+    {
+        "merged": "/home/candellws/Documents/GitHub/SlotsGdxAndroidOffline-master1/app/build/intermediates/res/merged/debug/layout/activity_main.xml",
+        "source": "/home/candellws/Documents/GitHub/SlotsGdxAndroidOffline-master1/app/src/main/res/layout/activity_main.xml"
     }
 ]

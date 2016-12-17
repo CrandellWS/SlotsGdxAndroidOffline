@@ -40,6 +40,8 @@ public interface AppWrapper {
 
     void gotoCGV();
 
+    void gotoWebsite();
+
     //	public void showMessagePIXTEL(String msg);
     void showMessagePIXTEL(String msg, int multipler);
 

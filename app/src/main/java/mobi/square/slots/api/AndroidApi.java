@@ -16,14 +16,15 @@ public class AndroidApi {
 
     public static final SlotsType[] TYPES = {
 //		SlotsType.BOOK_OF_RA,
-            SlotsType.CRAZY_MONKEY,
+//            SlotsType.CRAZY_MONKEY,
 //		SlotsType.FAIRYTALE,
 //		SlotsType.GARAGE,
 //		SlotsType.GLADIATORS,
-            SlotsType.MONEY_GAME,
 //		SlotsType.RESIDENT,
 //		SlotsType.ROCKCLIMBER,
-            SlotsType.UNDERWATER_LIFE
+//            SlotsType.UNDERWATER_LIFE,
+//            SlotsType.MONEY_GAME,
+            SlotsType.MAKEUP_GAME
     };
     public static final boolean ONLINE = false;
     public NetHttpClient client = null;
@@ -41,12 +42,13 @@ public class AndroidApi {
 
     public static void load() {
 //		mobi.square.slots.game.slots.v3.config.Fairytale.load();
-        mobi.square.slots.game.slots.v3.config.UnderwaterLife.load();
+//        mobi.square.slots.game.slots.v3.config.UnderwaterLife.load();
 //		mobi.square.slots.game.slots.v4.config.Resident.load();
 //		mobi.square.slots.game.slots.v4.config.RockClimber.load();
 //		mobi.square.slots.game.slots.v4.config.Garage.load();
-        mobi.square.slots.game.slots.v4.config.CrazyMonkey.load();
-        mobi.square.slots.game.slots.v4.config.MoneyGame.load();
+//        mobi.square.slots.game.slots.v4.config.CrazyMonkey.load();
+//        mobi.square.slots.game.slots.v4.config.MoneyGame.load();
+        mobi.square.slots.game.slots.v4.config.MakeupGame.load();
     }
 
     // Constructors

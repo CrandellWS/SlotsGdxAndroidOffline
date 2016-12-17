@@ -1,0 +1,201 @@
+
+Footer.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+panel_background
+  rotate: false
+  xy: 1, 865
+  size: 1280, 117
+  orig: 1280, 117
+  offset: 0, 0
+  index: -1
+combo_window_background
+  rotate: false
+  xy: 1, 708
+  size: 861, 155
+  orig: 861, 155
+  offset: 0, 0
+  index: -1
+button_risk_active
+  rotate: false
+  xy: 1, 485
+  size: 222, 221
+  orig: 222, 221
+  offset: 0, 0
+  index: -1
+button_risk_inactive
+  rotate: false
+  xy: 1, 262
+  size: 222, 221
+  orig: 222, 221
+  offset: 0, 0
+  index: -1
+button_risk_pressed
+  rotate: false
+  xy: 225, 485
+  size: 222, 221
+  orig: 222, 221
+  offset: 0, 0
+  index: -1
+button_risk_star
+  rotate: false
+  xy: 1, 39
+  size: 222, 221
+  orig: 222, 221
+  offset: 0, 0
+  index: 1
+button_risk_star
+  rotate: false
+  xy: 225, 262
+  size: 222, 221
+  orig: 222, 221
+  offset: 0, 0
+  index: 2
+button_risk_star
+  rotate: false
+  xy: 449, 485
+  size: 222, 221
+  orig: 222, 221
+  offset: 0, 0
+  index: 3
+button_risk_star
+  rotate: false
+  xy: 225, 39
+  size: 222, 221
+  orig: 222, 221
+  offset: 0, 0
+  index: 4
+button_spin_active
+  rotate: false
+  xy: 449, 262
+  size: 222, 221
+  orig: 222, 221
+  offset: 0, 0
+  index: -1
+button_spin_flare
+  rotate: false
+  xy: 449, 39
+  size: 222, 221
+  orig: 222, 221
+  offset: 0, 0
+  index: -1
+button_spin_inactive
+  rotate: false
+  xy: 673, 485
+  size: 222, 221
+  orig: 222, 221
+  offset: 0, 0
+  index: -1
+button_spin_pressed
+  rotate: false
+  xy: 673, 262
+  size: 222, 221
+  orig: 222, 221
+  offset: 0, 0
+  index: -1
+payout_background_flashed
+  rotate: false
+  xy: 1283, 946
+  size: 332, 36
+  orig: 332, 36
+  offset: 0, 0
+  index: -1
+payout_background_normal
+  rotate: false
+  xy: 1, 1
+  size: 332, 36
+  orig: 332, 36
+  offset: 0, 0
+  index: -1
+combo_window_button_active
+  rotate: false
+  xy: 864, 712
+  size: 155, 151
+  orig: 155, 151
+  offset: 0, 0
+  index: -1
+combo_window_button_inactive
+  rotate: false
+  xy: 673, 109
+  size: 155, 151
+  orig: 155, 151
+  offset: 0, 0
+  index: -1
+button_payout_active
+  rotate: false
+  xy: 1021, 760
+  size: 122, 103
+  orig: 122, 103
+  offset: 0, 0
+  index: -1
+button_payout_inactive
+  rotate: false
+  xy: 1145, 760
+  size: 122, 103
+  orig: 122, 103
+  offset: 0, 0
+  index: -1
+button_payout_pressed
+  rotate: false
+  xy: 897, 607
+  size: 122, 103
+  orig: 122, 103
+  offset: 0, 0
+  index: -1
+button_maxbet_active
+  rotate: false
+  xy: 1021, 656
+  size: 120, 102
+  orig: 120, 102
+  offset: 0, 0
+  index: -1
+button_maxbet_inactive
+  rotate: false
+  xy: 897, 503
+  size: 120, 102
+  orig: 120, 102
+  offset: 0, 0
+  index: -1
+button_maxbet_pressed
+  rotate: false
+  xy: 1143, 656
+  size: 120, 102
+  orig: 120, 102
+  offset: 0, 0
+  index: -1
+combo_background
+  rotate: false
+  xy: 1283, 891
+  size: 158, 53
+  orig: 158, 53
+  offset: 0, 0
+  index: -1
+totalbet_background
+  rotate: false
+  xy: 897, 398
+  size: 104, 103
+  orig: 104, 103
+  offset: 0, 0
+  index: -1
+button_combo_active
+  rotate: false
+  xy: 673, 52
+  size: 102, 55
+  orig: 102, 55
+  offset: 0, 0
+  index: -1
+button_combo_inactive
+  rotate: false
+  xy: 897, 341
+  size: 102, 55
+  orig: 102, 55
+  offset: 0, 0
+  index: -1
+button_combo_pressed
+  rotate: false
+  xy: 897, 284
+  size: 102, 55
+  orig: 102, 55
+  offset: 0, 0
+  index: -1
