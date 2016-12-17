@@ -5,29 +5,29 @@
     density="tvdpi"
     format="8"
     plugin-version="2.2.3"
-    timestamp="90814417520532"
+    timestamp="93382492838388"
     token="558862480223157736"
     verifier="FULL_BUILD_REQUESTED" >
 
     <task
         name="javac"
-        duration="2478" />
+        duration="1000" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="2519" />
+        duration="733" />
     <task
         name="verifier"
-        duration="106" />
+        duration="51" />
 
     <artifact
         location="/home/candellws/Documents/GitHub/SlotsGdxAndroidOffline-master1/app/build/outputs/apk/app-debug.apk"
         type="MAIN" />
 
     <build
-        timestamp="90814417520532"
+        timestamp="93382492838388"
         verifier="FULL_BUILD_REQUESTED" >
         <artifact
             location="/home/candellws/Documents/GitHub/SlotsGdxAndroidOffline-master1/app/build/outputs/apk/app-debug.apk"

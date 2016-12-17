@@ -389,6 +389,8 @@ public class FontsFactory {
 
         @Override
         public void run() {
+
+            System.out.println("fontFactory run()");
             BitmapFont font = this.generator.generateFont(this.parameter);
             font.setUseIntegerPositions(true);
             this.generator.dispose();

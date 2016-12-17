@@ -1,5 +1,5 @@
 #Internal package file, do not edit.
-#Sat Dec 17 11:45:33 EST 2016
+#Sat Dec 17 12:28:19 EST 2016
 210.set=ASSET
 14.set=ASSET
 180.file=/home/candellws/Documents/GitHub/SlotsGdxAndroidOffline-master1/app/build/intermediates/assets/debug/atlas/Gladiators.pack
